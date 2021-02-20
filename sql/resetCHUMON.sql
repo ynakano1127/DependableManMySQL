@@ -1,9 +1,9 @@
 create database MemberDB;
 use MemberDB;
 
--- drop table XMemberT;
--- drop table XFamilyT;
--- drop table YMemberT;
+drop table XMemberT;
+drop table XFamilyT;
+drop table YMemberT;
 
 create table XMemberT (
     MemberID char (4) primary key,

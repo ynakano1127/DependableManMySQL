@@ -1,8 +1,8 @@
 create database GraduateDB;
 use GraduateDB;
 
--- drop table AlumniListT;
--- drop table AwardListT;
+drop table AlumniListT;
+drop table AwardListT;
 
 create table AlumniListT (
     Year tinyint unsigned not null ,

@@ -1,10 +1,10 @@
 create database OrderDB;
 use OrderDB;
 
--- drop table CorpT;
--- drop table DetailT;
--- drop table OrderT;
--- drop table PCsetT;
+drop table CorpT;
+drop table DetailT;
+drop table OrderT;
+drop table PCsetT;
 
 create table CorpT (
     CorpID char (4) primary key,
